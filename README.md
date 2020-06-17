@@ -1,6 +1,7 @@
 # Audiofork Google Speech Transcribe Demo
 
-This is a working example that can transcribe live audio using Google cloud speech and the [Asterisk Audiofork module](https://github.com/nadirhamid/asterisk-audiofork).
+## About 
+This is a working demo that can generate live transcriptions using Google cloud speech APIs and [Asterisk Audiofork](https://github.com/nadirhamid/asterisk-audiofork).
 
 ## Setup
 
@@ -28,5 +29,5 @@ node app.js
 Running Audio fork Google cloud speech demo
 Updated transription: Hello, my name is testing.
 ...
-Updated transription: Hello, my name is testing. I am 30 years old.
+Updated transription: Hello, my name is testing. I am 15 years old.
 ```
