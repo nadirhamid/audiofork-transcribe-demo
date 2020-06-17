@@ -1,7 +1,9 @@
 # Audiofork Google Speech Transcribe Demo
 
 ## About 
-This is a working demo that can generate live transcriptions using Google cloud speech APIs and [Asterisk Audiofork](https://github.com/nadirhamid/asterisk-audiofork).
+This is a sample integration of [Asterisk Audiofork Module](https://github.com/nadirhamid/asterisk-audiofork) and the Google Cloud Speech APIs. This project is intended to process transcriptions in near real time. 
+
+[Asterisk Audiofork](https://github.com/nadirhamid/asterisk-audiofork) 
 
 ## Setup
 
