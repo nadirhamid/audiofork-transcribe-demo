@@ -3,7 +3,7 @@
 ## About 
 This is a sample integration of [Asterisk Audiofork Module](https://github.com/nadirhamid/asterisk-audiofork) and the Google Cloud Speech APIs. This project is intended to process transcriptions in near real time. 
 
-[Asterisk Audiofork](https://github.com/nadirhamid/asterisk-audiofork) 
+for more info on Asterisk Audiofork Module [please click here](https://github.com/nadirhamid/asterisk-audiofork) 
 
 ## Setup
 
