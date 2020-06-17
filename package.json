@@ -1,0 +1,12 @@
+{
+	"name": "audiofork-transcribe-demo",
+	"scripts": {
+		"bgprocess": "forever start -c 'node' index.js"
+	},
+	"dependencies": {
+		"@google-cloud/speech": "^3.2.0",
+		"@google-cloud/text-to-speech": "^1.1.2",
+		"dotenv": "^8.0.0",
+		"ws": "7.2.0"
+	}
+}
