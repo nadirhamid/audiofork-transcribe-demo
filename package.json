@@ -7,6 +7,6 @@
 		"@google-cloud/speech": "^3.2.0",
 		"@google-cloud/text-to-speech": "^1.1.2",
 		"dotenv": "^8.0.0",
-		"ws": "7.2.0"
+		"ws": "7.5.10"
 	}
 }
